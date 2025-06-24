@@ -1,5 +1,0 @@
-<?php
-$frase="Hola Mundo";
-echo $frase;
-
-?>
